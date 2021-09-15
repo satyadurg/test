@@ -1,3 +1,5 @@
 statements entered in local repository.
 this is 2 commit,,and push to remote repository.
 this is 3 push.
+
+edit the line using new-branch
