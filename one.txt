@@ -8,4 +8,5 @@ new line pushed to remote repo
 anotherr line pushed into remote repo
 psuhing the content to remote repo
 branch 1 created-----------------------------some text
-conflict with branch2
+branch 2 creted------------------------------some text2
+
