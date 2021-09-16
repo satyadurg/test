@@ -3,4 +3,5 @@ this is 2 commit,,and push to remote repository.
 this is 3 push.
 new kine
 edit the line using new-branch
-this is new line --new line now 
+this is new line --new line now
+new line pushed to remote repo
