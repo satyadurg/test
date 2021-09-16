@@ -7,4 +7,7 @@ this is new line --new line now
 new line pushed to remote repo
 anotherr line pushed into remote repo
 psuhing the content to remote repo.
+branch 1 created-----------------------------some text
+branch 2 creted------------------------------some text2
+commits has been resolved and con flict occurs those branch text has remained unchanged due to conflict occurs
 
