@@ -1,5 +1,6 @@
 package connections;
 //Added comments for to see 
+//to insert data into data base
 
 public class EmployeeDetailsSet {
 	String name;
