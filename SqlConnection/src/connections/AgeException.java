@@ -3,7 +3,8 @@ package connections;
 public class AgeException extends Exception {
 	 AgeException(String s)
 		{
-			//super(s);
+			//super(s); 
+		 //super(s);
 		 super(s);
 			
 		}
