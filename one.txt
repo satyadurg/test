@@ -10,5 +10,6 @@ psuhing the content to remote repo.
 branch 1 created-----------------------------some text
 branch 2 creted------------------------------some text2
 commits has been resolved and con flict occurs those branch text has remained unchanged due to conflict occurs
-ENTERED NEW LINE IN ECCLIPSE AND TRY TO PUSH IT FROM THE ECLLIPSE IDE TO REMPTE REPO 
+ENTERED NEW LINE IN ECCLIPSE AND TRY TO PUSH IT FROM THE ECLLIPSE IDE TO REMPTE REPO
+clone the repository int h drive
 
